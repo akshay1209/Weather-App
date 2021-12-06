@@ -6,4 +6,9 @@ The user can get the current weather information of any city in the world by ent
 The information is displayed inside a card on the web app.
 
 # Deployment
+This project has been deployed on netlify.com .
+
+Click the following link to run the page in your browser.
+
+https://goofy-roentgen-071eb1.netlify.app
 
